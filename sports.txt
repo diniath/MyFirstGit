@@ -1,2 +1,3 @@
 soccer
-basket
+basketball
+volleyball
