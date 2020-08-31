@@ -2,3 +2,5 @@ soccer
 basketball
 volleyball
 tennis
+ping pong
+
